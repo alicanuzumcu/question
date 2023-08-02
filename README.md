@@ -4,7 +4,7 @@ For example, input:'ALICCAN' => output:'ALIC' and length:4
 input:'ABBCDDEFGGGH' => output:'DEFG' and length:4
 
 Examples are clear to understand logic i think, however we should be careful about small and big letters because
-computers understand as like different letters. To get rid of this problem we ı have used a built in function which 
+computers understand as like different letters. To get rid of this problem ı have used a built in function which 
 makes all letters big so the problem is solved now.
 For example if we wouldn't solve the problem it would be like that, input:'ALICcAN' => output:'ALICcAN' and length:7
 
